@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations start="0" num="4" total="4">
+  <Annotation about="*.ottosearch.tk/*" timestamp="0x0005e2ee5a19a5ba" href="ChEqLm90dG9zZWFyY2gudGsvKhC6y-bQ5d34Ag">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://ottosearch.tk"/>
+  </Annotation>
+  <Annotation about="*.megaos.tk/*" timestamp="0x0005e2ee592e404f" href="Cg0qLm1lZ2Fvcy50ay8qEM-Aucnl3fgC">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://megaos.tk"/>
+  </Annotation>
+  <Annotation about="dsc.bio/hxor1337*" timestamp="0x0005ddc281030d06" href="ChFkc2MuYmlvL2h4b3IxMzM3KhCGmoyIqLj3Ag">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="http://dsc.bio/hxor1337"/>
+  </Annotation>
+  <Annotation about="www.youtube.com/*" score="1" timestamp="0x0005ddbdd847dac9" href="ChF3d3cueW91dHViZS5jb20vKhDJtZ_C3bf3Ag">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="www.youtube.com"/>
+  </Annotation>
+</Annotations>
